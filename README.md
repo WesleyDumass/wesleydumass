@@ -9,6 +9,7 @@
 - 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC
 - 📚 Estudando JavaScript, Node.js, React, React native e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+- Posto meus projetos no linkedin - https://www.linkedin.com/in/wesleydumas/
 
 ---
 <br>
