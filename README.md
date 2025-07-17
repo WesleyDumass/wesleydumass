@@ -40,9 +40,6 @@
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,arduino)](https://skillicons.dev)
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardavieira-dev.eduardavieira-dev&left_color=darkviolet&right_color=orchid" width="80" />
 </div>
